@@ -40,7 +40,7 @@ const getChatResponse = async (incomingChatDiv) => {
         method: "POST",
         headers: {
             "Content-Type": "application/json",
-            "Authorization": `Bearer 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`
+            "Authorization": `Bearer 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`
         },
         body: JSON.stringify({
             model: "text-davinci-003",
